@@ -28,6 +28,8 @@ Please note: For the below statements you need to state the Null and Alternate a
 
 ## Dataset Description :
 
+- [Dataset](https://github.com/Rahul1097/NYC-311-Customer-Service-Requests-Analysis/blob/master/311_Service_Requests_from_2010_to_Present.zip) 
+
 Field	Description-
 
 - Unique Key	(Plain text) - Unique identifier for the complaints
@@ -83,6 +85,10 @@ Field	Description-
 - Latitude	(Number) - Latitude of the location
 - Longitude	(Number) - Longitude of the location
 - Location	(Location) - Coordinates (Latitude, Longitude)
+
+## Problem Solution
+
+- [Go to Solution](https://github.com/Rahul1097/NYC-311-Customer-Service-Requests-Analysis/blob/master/Project%201%20-%20NYC%20311%20%20Customer%20Service%20Requests%20Analysis.ipynb) 
 
 ## References
 
