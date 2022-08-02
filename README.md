@@ -88,7 +88,7 @@ Field	Description-
 
 ## Problem Solution
 
-- [Go to Solution](https://github.com/Rahul1097/NYC-311-Customer-Service-Requests-Analysis/blob/master/Project%201%20-%20NYC%20311%20%20Customer%20Service%20Requests%20Analysis.ipynb)
+- [Go to Solution](https://github.com/Rahul1097/NYC-311-Customer-Service-Requests-Analysis/blob/master/NYC%20311%20%20Customer%20Service%20Requests%20Analysis.ipynb)
 
 ## Tech Stack
 
